@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 87",
     "uscensus:sldlst":"087",
     "uscensus:statefp":"05",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688549
+    ],
     "wof:breaches":[],
+    "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485949,
     "wof:geomhash":"822bc1cb6db2747f886c32b1f28253f3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688549
+        }
+    ],
     "wof:id":1108761499,
     "wof:lastmodified":1481485949,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688549,
     "wof:repo":"whosonfirst-data-constituency-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],

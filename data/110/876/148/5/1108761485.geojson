@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 81",
     "uscensus:sldlst":"081",
     "uscensus:statefp":"05",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688549
+    ],
     "wof:breaches":[],
+    "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485947,
     "wof:geomhash":"de4f83cfe51e16ff23710c2a7e8b51a2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688549
+        }
+    ],
     "wof:id":1108761485,
     "wof:lastmodified":1481485947,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688549,
     "wof:repo":"whosonfirst-data-constituency-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],

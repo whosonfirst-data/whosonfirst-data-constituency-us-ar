@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 100",
     "uscensus:sldlst":"100",
     "uscensus:statefp":"05",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688549
+    ],
     "wof:breaches":[],
+    "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485952,
     "wof:geomhash":"c7a08146282467ec54d4b940bc5a3316",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688549
+        }
+    ],
     "wof:id":1108761529,
     "wof:lastmodified":1481485952,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688549,
     "wof:repo":"whosonfirst-data-constituency-us-ar",
     "wof:superseded_by":[],
     "wof:supersedes":[],
